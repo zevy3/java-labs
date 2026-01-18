@@ -1,0 +1,143 @@
+Hello World
+Java 8 Programming
+Stream API
+Data Processing 123
+This is a longer string with numbers 456
+Lambda
+Functional Programming
+Test Data 789
+   Spaces   
+Another Line
+Multi Threading
+Concurrent Processing
+Filter
+Transform
+Aggregate
+Collection Framework
+Parallel Streams
+ExecutorService Example
+Future and Callable
+Java 8 Programming
+Data Processing 123
+This is a longer string with numbers 456
+Test Data 789
+Hello World
+Java 8 Programming
+Stream API
+Data Processing 123
+Short
+This is a longer string with numbers 456
+Lambda
+Functional Programming
+Test Data 789
+   Spaces   
+Another Line
+Multi Threading
+Concurrent Processing
+Filter
+Transform
+Aggregate
+Collection Framework
+Parallel Streams
+ExecutorService Example
+Future and Callable
+HELLO WORLD
+JAVA 8 PROGRAMMING
+STREAM API
+DATA PROCESSING 123
+SHORT
+THIS IS A LONGER STRING WITH NUMBERS 456
+LAMBDA
+FUNCTIONAL PROGRAMMING
+TEST DATA 789
+   SPACES   
+ANOTHER LINE
+MULTI THREADING
+CONCURRENT PROCESSING
+FILTER
+TRANSFORM
+AGGREGATE
+COLLECTION FRAMEWORK
+PARALLEL STREAMS
+EXECUTORSERVICE EXAMPLE
+FUTURE AND CALLABLE
+[PROCESSED] Hello World
+[PROCESSED] Java 8 Programming
+[PROCESSED] Stream API
+[PROCESSED] Data Processing 123
+[PROCESSED] Short
+[PROCESSED] This is a longer string with numbers 456
+[PROCESSED] Lambda
+[PROCESSED] Functional Programming
+[PROCESSED] Test Data 789
+[PROCESSED]    Spaces   
+[PROCESSED] Another Line
+[PROCESSED] Multi Threading
+[PROCESSED] Concurrent Processing
+[PROCESSED] Filter
+[PROCESSED] Transform
+[PROCESSED] Aggregate
+[PROCESSED] Collection Framework
+[PROCESSED] Parallel Streams
+[PROCESSED] ExecutorService Example
+[PROCESSED] Future and Callable
+Hello World
+Java 8 Programming
+Stream API
+Data Processing 123
+Short
+This is a longer string with numbers 456
+Lambda
+Functional Programming
+Test Data 789
+Spaces
+Another Line
+Multi Threading
+Concurrent Processing
+Filter
+Transform
+Aggregate
+Collection Framework
+Parallel Streams
+ExecutorService Example
+Future and Callable
+Длина 5: 1 элементов
+Длина 6: 2 элементов
+Длина 40: 1 элементов
+Длина 9: 2 элементов
+Длина 10: 1 элементов
+Длина 11: 1 элементов
+Длина 12: 2 элементов
+Длина 13: 1 элементов
+Длина 15: 1 элементов
+Длина 16: 1 элементов
+Длина 18: 1 элементов
+Длина 19: 2 элементов
+Длина 20: 1 элементов
+Длина 21: 1 элементов
+Длина 22: 1 элементов
+Длина 23: 1 элементов
+Статистика:
+Всего элементов: 20
+Средняя длина: 15.30
+Максимальная длина: 40
+   Spaces   
+Aggregate
+Another Line
+Collection Framework
+Concurrent Processing
+Data Processing 123
+ExecutorService Example
+Filter
+Functional Programming
+Future and Callable
+Hello World
+Java 8 Programming
+Lambda
+Multi Threading
+Parallel Streams
+Short
+Stream API
+Test Data 789
+This is a longer string with numbers 456
+Transform
